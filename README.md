@@ -1,6 +1,6 @@
 # Fastest Booking Form
 
-The Live project can be accessed here[Fast Bookings](https://fastbookings-hiringtask.netlify.app/).
+The Live project can be accessed here [Fast Bookings](https://fastbookings-hiringtask.netlify.app/).
 
 ## About
 
