@@ -1,6 +1,6 @@
 # Fastest Booking Form
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Live project can be accessed here[Fast Bookings](https://fastbookings-hiringtask.netlify.app/).
 
 ## About
 
